@@ -1,2 +1,2 @@
 # CodeKata
-Testing out different methods to for code implementation
+Testing out different methods for code implementation
