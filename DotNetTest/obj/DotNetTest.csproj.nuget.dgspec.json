@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\DotNetTest\\DotNetTest.csproj": {}
+    "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\dotnettest\\DotNetTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\DotNetTest\\DotNetTest.csproj": {
+    "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\dotnettest\\DotNetTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\DotNetTest\\DotNetTest.csproj",
+        "projectUniqueName": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\dotnettest\\DotNetTest.csproj",
         "projectName": "DotNetTest",
-        "projectPath": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\DotNetTest\\DotNetTest.csproj",
+        "projectPath": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\dotnettest\\DotNetTest.csproj",
         "packagesPath": "C:\\Users\\nordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\DotNetTest\\obj\\",
+        "outputPath": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\dotnettest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nordi\\AppData\\Roaming\\NuGet\\NuGet.Config",

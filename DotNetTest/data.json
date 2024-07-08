@@ -2,5 +2,7 @@
   "key": "value",
   "MyKey": "ThisIsTestNumber2",
   "Developer": "DoingCSharpThings",
-  "task1": "Need to get lunch later"
+  "task1": "Need to get lunch later",
+  "Task2": "have to make sure I understand everything",
+  "Task3": "will need to feed the dog"
 }

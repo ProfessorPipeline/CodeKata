@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hhfyp3GDvYKLL0kyBN/yb/B4eNeJMjhtxyq4YKNK9623eTrS4oRafOOfxjeVgYeiUzDnV7x2IqbBHrCsdvuB+Q==",
+  "dgSpecHash": "ImImTR50w4ceF7xFfmAOHwfGSbnNBZi3AJT4QIpkijLXz7rloRHMMX56nHPB0q6UijGcKA56gm6PJOpEwFYMEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\DotNetTest\\DotNetTest.csproj",
+  "projectFilePath": "C:\\Users\\nordi\\salt\\code_katas\\CodeKata\\dotnettest\\DotNetTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nordi\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\nordi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
